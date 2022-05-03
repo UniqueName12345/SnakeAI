@@ -1,0 +1,4 @@
+/* make the snake id's background grey */
+.snake {
+    background-color: #ccc;
+}
